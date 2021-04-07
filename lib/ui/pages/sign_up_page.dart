@@ -24,7 +24,7 @@ class _SignUpPageState extends State<SignUpPage> {
             width: double.infinity,
             margin: EdgeInsets.fromLTRB(defaultMargin, 16, defaultMargin, 6),
             child: Text(
-              "Fullllllll Name",
+              "Full Name",
               style: whiteFontStyle2,
             ),
           ),
