@@ -18,6 +18,7 @@ class MyApp extends StatelessWidget {
           '/accountcreated_page': (BuildContext context) => AccountCreated(),
           '/forgot_page': (BuildContext context) => ForgotPassword(),
           '/forgotalert_page': (BuildContext context) => ForgotPasswordAlert(),
+          '/home_page': (BuildContext context) => HomePage(),
         });
   }
 }

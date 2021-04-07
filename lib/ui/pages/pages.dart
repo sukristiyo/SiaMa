@@ -19,3 +19,4 @@ part 'address_page.dart';
 part 'forgot_page.dart';
 part 'forgotalert_page.dart';
 part 'close_app.dart';
+part 'home_page.dart';
